@@ -1,8 +1,8 @@
 // ==UserScript==
-// @name         ogar-feeder-bot
+// @name         Ogar-feeder-bot-plus
 // @namespace    http://github.com/davidmann4/
 // @version      0.02
-// @description  to be writen
+// @description  A bot client for Ogar/Agario
 // @author       davidmann4
 // @license      MIT
 // @match        http://agar.io/*
