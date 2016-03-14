@@ -1,4 +1,4 @@
-# ogar-feeder-bot
+# Ogar-feeder-bot-plus
 
 skype group: https://join.skype.com/eQuN52iQVzZg
 
