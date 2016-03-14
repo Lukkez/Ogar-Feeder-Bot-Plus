@@ -1,5 +1,5 @@
 {
-  "name": "ogar-feeder-bot",
+  "name": "Ogar-feeder-bot-plus",
   "version": "1.0.0",
   "description": "A Bot for ogar servers which follows your mouse and other cool stuff.",
   "main": "feeder.js",
