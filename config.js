@@ -7,7 +7,7 @@ config.account = {};
 config.verbosityLevel = 1;
 
 // Useragent the bot will use
-config.userAgent = 'ogar-feeder-bot';
+config.userAgent = 'Ogar-feeder-bot-plus';
 
 // the feederServer connects your node script with your browser (mouse coordinates & commands)
 // you can use the public server or run your own node server/server.js
@@ -20,13 +20,13 @@ config.client_uuid = "YOUR_UUID"; // after you install the userscript press F12 
 // Location of your proxy files with HTTP proxies (Sock proxies not supported yet!)
 config.proxies = "proxy.txt";
 config.botsPerIp = 1;
-config.onboardingTimer = 5000;
+config.onboardingTimer = 1;
 
 // Maximum number of bots to load
-config.maxBots = 128;
+config.maxBots = 99999;
 
 config.useRandomSkinName = true; // Set to true to use random name
-config.useStaticName = "OgarFeederBot"; // If above is false, us this skin name
+config.useStaticName = "OFBP"; // If above is false, us this skin name (OFBP = Ogar-Feeder-Bot-Plus)
 
 // The bot can have different AI modes:
 // * default 	Bot will follow your mouse and listen to SPlit and eject commands
