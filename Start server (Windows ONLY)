@@ -1,0 +1,17 @@
+@echo off
+cd /d %~dp0
+cls
+
+if not exist "node_modules" (
+echo [ERROR]Code 1:
+echo.
+echo Press any key to exit...
+pause >nul
+exit
+)
+
+if exist server/server.js (
+call node server/server
+) else (
+call node server
+)
