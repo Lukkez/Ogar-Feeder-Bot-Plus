@@ -3,9 +3,9 @@ cd /d %~dp0
 cls
 
 if not exist "node_modules" (
-echo [ERROR]Code 1:
+echo [ERROR]Code 1: Folder "node_modules" not found!
 echo.
-echo Press any key to exit...
+echo Press any key to quit process(close)...
 pause >nul
 exit
 )
