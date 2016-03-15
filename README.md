@@ -1,8 +1,8 @@
 # Ogar-feeder-bot-plus 
 
-###Code errors
-
-* CODE 1: Files/folders not found on directory.
+Code Errors | Reason
+------------|--------------
+1           | File/Folder not found, not acessible
 
 
 
